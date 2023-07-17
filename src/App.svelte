@@ -20,14 +20,14 @@
     <Navbar path={path}/>
 
     <!-- Staticpath -->
-    <Route path="/" exact>
+    <Route path="/">
       <Hero/>
     </Route>
-    <Route path="/about" exact>
+    <Route path="/about">
       <About/>
     </Route>
-    <Route path="/contact" exact>
-      <Hero2 text="Contact"/>
+    <Route path="/contact">
+      <Contact/>
     </Route>
 
     <!-- Params path -->
