@@ -6,7 +6,7 @@
 
 
 
-<div class="navbar bg-base-100 fixed">
+<div class="navbar bg-base-100 fixed z-10">
   <div class="navbar-start">
     <div class="dropdown">
       <label tabindex="0" class="btn btn-ghost btn-circle">
